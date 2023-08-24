@@ -7,7 +7,9 @@
 I am [Dhruv Darji](https://www.linkedin.com/in/dhruv-darji/), Highly motivated and skilled IT professional seeking an opportunity in DevOps & Cloud. Committed to leveraging my technical expertise and passion for automation to contribute to the success of an organization while gaining hands-on experience and expanding my knowledge in DevOps practices. 🎯
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-darji/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dhruvdarji145) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13398634) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/chococandy63) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dhruvdarji145) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-darji/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dhruvdarji145) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dhruvdarji145) 
+
+## Cloud Native Enthusiast
 
 I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
@@ -37,7 +39,7 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
   </a>
  </p>
 
-### DevOps
+### Cloud
 
  <p float="left">
   <a href="https://docs.oracle.com/en-us/iaas/Content/home.htm" target="_blank" >
