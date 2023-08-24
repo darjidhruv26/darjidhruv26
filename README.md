@@ -67,6 +67,11 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darjidhruv26&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=darjidhruv26&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darjidhruv26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=darjidhruv26&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darjidhruv26&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
+
