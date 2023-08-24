@@ -79,8 +79,7 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 </a>
 
 <a href="https://www.credly.com/earner/earned/badge/17359940-7662-4b5f-956c-d0bcf698c064"> 
-  <img alt="AWS Knowledge: Architecting" src="https://github.com/darjidhruv26/darjidhruv26/assets/90086813/f6ab363a-6bdb-4f28-ad6e-d42aeecc88e4
-" height="120px" />
+  <img alt="AWS Knowledge: Architecting" src="https://github.com/darjidhruv26/darjidhruv26/assets/90086813/c43e1d2e-8e31-4df7-973b-b33660c415a5" height="120px" />
 </a>
 
 <a href="https://www.credly.com/earner/earned/badge/d482e558-db15-4958-8a1a-7322c01fba37"> 
