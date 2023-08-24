@@ -13,7 +13,7 @@ I am [Dhruv Darji](https://www.linkedin.com/in/dhruv-darji/), Highly motivated a
 
 I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
-
+## Tools & Technology
 
 <p float="left">
   <a href="https://www.docker.com/" target="_blank" >
@@ -71,6 +71,12 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
   </a>
 
 </p>
+
+## Certification: 📜
+
+<a href="https://www.credly.com/badges/4201e40b-fc9c-45a3-a49d-9cd9f9cc612f/public_url"> 
+  <img alt="Google IT Support" src="https://github.com/darjidhruv26/darjidhruv26/assets/90086813/7e806f40-f874-483d-97c9-9bed57ad828d" height="120px" />
+</a>
 
 # 📊 GitHub Stats:
 
