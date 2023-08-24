@@ -50,7 +50,7 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
    <a href="https://learn.microsoft.com/en-us/azure/?product=popular" target="_blank" >
-    <img src="https://github.com/darjidhruv26/darjidhruv26/assets/90086813/deccf707-7d69-4516-aa08-b2a551d08a0a"  height="40" />
+    <img src="https://github.com/darjidhruv26/darjidhruv26/assets/90086813/340f19cb-3dc0-4a80-a188-703f38a3c5ef"  height="75" />
   </a>
  </p>
  
