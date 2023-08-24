@@ -14,6 +14,7 @@ I am [Dhruv Darji](https://www.linkedin.com/in/dhruv-darji/), Highly motivated a
 I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
 
+
 <p float="left">
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
@@ -39,7 +40,7 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
   </a>
  </p>
 
-### Cloud
+### Cloud Technology
 
  <p float="left">
   <a href="https://docs.oracle.com/en-us/iaas/Content/home.htm" target="_blank" >
@@ -47,6 +48,9 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+  </a>
+   <a href="https://learn.microsoft.com/en-us/azure/?product=popular" target="_blank" >
+    <img src="https://github.com/darjidhruv26/darjidhruv26/assets/90086813/deccf707-7d69-4516-aa08-b2a551d08a0a"  height="75" />
   </a>
  </p>
  
