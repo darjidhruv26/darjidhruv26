@@ -90,11 +90,13 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
   <img alt="Google IT Support" src="https://github.com/darjidhruv26/darjidhruv26/assets/90086813/7e806f40-f874-483d-97c9-9bed57ad828d" height="120px" />
 </a>
 
+
 # 📊 GitHub Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=darjidhruv26&show_icons=true&theme=transparent" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darjidhruv26&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
