@@ -74,8 +74,18 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
 ## Certification: 📜
 
-<a href=""> 
-  <img alt="" src="" height="120px" />
+<a href="https://www.credly.com/badges/4201e40b-fc9c-45a3-a49d-9cd9f9cc612f/public_url"> 
+  <img alt="Google IT Support" src="https://github.com/darjidhruv26/darjidhruv26/assets/90086813/7e806f40-f874-483d-97c9-9bed57ad828d" height="120px" />
+</a>
+
+<a href="https://www.credly.com/badges/4201e40b-fc9c-45a3-a49d-9cd9f9cc612f/public_url"> 
+  <img alt="Google IT Support" src="https://github.com/darjidhruv26/darjidhruv26/assets/90086813/7e806f40-f874-483d-97c9-9bed57ad828d" height="120px" />
+</a>
+
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3BF33FF36E9FD4860666D4655A9A7A2A210F1FECBC7893E86B3669A42D374655"> 
+  <img alt="Oracle Cloud Infrastructure 2023 Multicloud Architect Certified Associate
+" src="![OCI23MCCA](https://github.com/darjidhruv26/darjidhruv26/assets/90086813/3c68962c-e385-4fb9-9cc0-21f7d15e4ec6)
+" height="120px" />
 </a>
 
 <a href="https://www.credly.com/earner/earned/badge/17359940-7662-4b5f-956c-d0bcf698c064"> 
