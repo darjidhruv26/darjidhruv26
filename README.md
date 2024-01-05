@@ -1,86 +1,37 @@
-### Hi there 👋
+![op](https://github.com/darjidhruv26/darjidhruv26/assets/90086813/aec64cc2-5d0d-406d-885d-312a46471be6)
 
-<!--
-**darjidhruv26/darjidhruv26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<h1 align="center">Hi 👋, I'm Dhruv Darji</h1>
+<h3 align="center">A passionate DevOps/Cloud Engineer from India</h3>
 
-I am [Dhruv Darji](https://www.linkedin.com/in/dhruv-darji/), Highly motivated and skilled IT professional seeking an opportunity in DevOps & Cloud. Committed to leveraging my technical expertise and passion for automation to contribute to the success of an organization while gaining hands-on experience and expanding my knowledge in DevOps practices. 🎯
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darjidhruv26&label=Profile%20views&color=0e75b6&style=flat" alt="darjidhruv26" /> </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-darji/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dhruvdarji145) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dhruvdarji145) 
+- 🔭 I’m currently working on **DevOps & Cloud**
 
-## Cloud Native Enthusiast
+- 🌱 I’m currently learning **Kubernetes**
 
-I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
+- 👯 I’m looking to collaborate on **Open Source**
 
-## Tools & Technology
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dhruv-darji/](https://www.linkedin.com/in/dhruv-darji/)
 
-<p float="left">
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-  </a>
+- 📝 I regularly write articles on [https://medium.com/@dhruvdarji145](https://medium.com/@dhruvdarji145)
 
-  <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
-  </a>
+- 💬 Ask me about **DevOps & Cloud**
 
-  <a href="https://grpc.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
-  </a>
-  
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" >
-    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
-  </a>
+- 📫 How to reach me **dhruvdarji145@gmail.com**
 
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
- </p>
-
-### Cloud Technology
-
- <p float="left">
-  <a href="https://docs.oracle.com/en-us/iaas/Content/home.htm" target="_blank" >
-    <img src="https://github.com/darjidhruv26/darjidhruv26/assets/90086813/6bbf96bf-86bd-45b9-bf77-8ca72092324e"  height="75" />
-  </a> 
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
-  </a>
-   <a href="https://learn.microsoft.com/en-us/azure/?product=popular" target="_blank" >
-    <img src="https://github.com/darjidhruv26/darjidhruv26/assets/90086813/340f19cb-3dc0-4a80-a188-703f38a3c5ef"  height="75" />
-  </a>
- </p>
- 
-### Databases and Monitoring
-
-  <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a>
-    <a href="https://www.postgresql.org" target="_blank" >
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
-  </a>
-  </a>
-    <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
-  </a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dhruvdarji145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvdarji145" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhruv-darji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-darji" height="30" width="40" /></a>
+<a href="https://instagram.com/thisisdhruvdarji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisisdhruvdarji" height="30" width="40" /></a>
+<a href="https://medium.com/@dhruvdarji145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dhruvdarji145" height="30" width="40" /></a>
 </p>
 
-## Certification: 📜
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=AE752C95D102E424BFF29FA030C41FB4DC14522DDEF2F6A1D95415AE67CEF862"> 
-  <img alt="Oracle Cloud Infrastructure 2023 Certified Foundations Associate
-" src="https://github.com/darjidhruv26/darjidhruv26/assets/90086813/916d66a4-3af0-468c-954e-1806ea40527c" height="120px" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darjidhruv26&show_icons=true&locale=en&layout=compact" alt="darjidhruv26" /></p>
 
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A568479C9A13A280B55BAFAB2A2D34E91449FC03080E9FD0EF770B4800917A1B&fbclid=IwAR0OXaaaSgnB8B_qOIo8DGWO9ET2ueszIbK06v0_YTNC2SruJ4bElqHWUUg"> 
-  <img alt="Oracle Cloud Infrastructure 2023 Certified Architect Associate" src="https://github.com/darjidhruv26/darjidhruv26/assets/90086813/b0920c2a-ce54-4661-be72-0fed9d5592c1" height="120px" />
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darjidhruv26&show_icons=true&locale=en" alt="darjidhruv26" /></p>
 
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3BF33FF36E9FD4860666D4655A9A7A2A210F1FECBC7893E86B3669A42D374655"> 
-  <img alt="Oracle Cloud Infrastructure 2023 Multicloud Architect Certified Associate
-" src="https://github.com/darjidhruv26/darjidhruv26/assets/90086813/3c68962c-e385-4fb9-9cc0-21f7d15e4ec6" height="120px" />
-</a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darjidhruv26&" alt="darjidhruv26" /></p>
